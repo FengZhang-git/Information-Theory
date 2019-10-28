@@ -3,6 +3,4 @@
 ## 1.PDF 文档(https://github.com/FengZhang-git/Information-Theory/blob/master/1.pdf)
 ![](https://github.com/FengZhang-git/Information-Theory/blob/master/1.jpeg)
 
-<span id="busuanzi_container_site_pv">
-    本站总访问量<span id="busuanzi_value_site_pv"></span>次
-</span>
+
