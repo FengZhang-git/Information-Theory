@@ -1,6 +1,10 @@
 # Information-Theory
-# 信息论基础（第2版）-Chapter 2 熵与互信息
-## 1.PDF 文档(https://github.com/FengZhang-git/Information-Theory/blob/master/1.pdf)
-![](https://github.com/FengZhang-git/Information-Theory/blob/master/1.jpeg)
+# 信息论基础（第2版）
+## 第2章 熵与互信息
+## 第3章 渐进均分性
+## 第7章 信道容量
+## 第9章 高斯信道
+
+### 在此感谢本次课程教师！笔记中有错误和不足之处，请各位提出并联系我进行修改。
 
 
