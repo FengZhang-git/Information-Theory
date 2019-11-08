@@ -1,5 +1,4 @@
-# Information-Theory
-# 信息论基础（第2版）
+# Information-Theory 信息论基础（第2版）
 ## 第2章 熵与互信息
 ## 第3章 渐进均分性
 ## 第7章 信道容量
